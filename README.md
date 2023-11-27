@@ -18,17 +18,9 @@ This project is called Spring Box and it consists of simple C# scripts that allo
 
 <p align="center">
 Scene Screen: <br/>
-<img src="https://imgur.com/284XIaV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Game Screen:  <br/>
-<img src="https://imgur.com/5K27gF5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/jhFK28n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/od0LDS3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Replay Screen:  <br/>
-<img src="https://imgur.com/3KydREv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/CKx6gCC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/fcTn5wX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Rkf6JTv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
